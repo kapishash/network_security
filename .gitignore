@@ -2,3 +2,4 @@
 test_connection.py
 logs/
 Artifacts/
+mlruns/
