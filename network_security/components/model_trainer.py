@@ -27,7 +27,13 @@ from sklearn.ensemble import (
 )
 
 
+# import dagshub
+# dagshub.init(repo_owner='kapishashtankar10', repo_name='network_security', mlflow=True)
 
+# import mlflow
+# with mlflow.start_run():
+#   mlflow.log_param('parameter name', 'value')
+#   mlflow.log_metric('metric name', 1)
 
 os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/kapishashtankar10/network_security.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"]="kapishashtankar10"

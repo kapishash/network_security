@@ -9,6 +9,8 @@ dvc
 pyaml
 mlflow
 dagshub
+fastapi
+uvicorn
 
 
 
