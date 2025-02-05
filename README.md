@@ -7,6 +7,7 @@
 - clone this repo
 - conda create -n env python==3.9
 - conda activate env
+- pip install -r requirements.txt
 - python app.py
 
 Technology used 
