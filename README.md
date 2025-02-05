@@ -17,4 +17,4 @@ Technology used
 - git
 - docker
 
-- ![Mlflow](https://github.com/user-attachments/assets/03ec39ed-00ab-435c-9462-d08d6d0b635a)
+![Mlflow](https://github.com/user-attachments/assets/03ec39ed-00ab-435c-9462-d08d6d0b635a)
